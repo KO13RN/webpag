@@ -34,7 +34,7 @@ function WelcomePage() {
         <p className="welcome-message">
           We can't wait to see you at Visual Insect Dome!
         </p>
-        <a href="https://portal.furioos.com/share/npj7GzWXjfxDSMtqs?autoRun=true" target="_blank" rel="noopener noreferrer">
+        <a href="https://nitassakanproject.blogspot.com/2023/03/insect-simulation-exhibition-in-khao_7.html" target="_blank" rel="noopener noreferrer">
         <button onClick={handleButtonClick}>Click me to start</button>
       </a>
         {buttonClicked && <p>You clicked the button!</p>}

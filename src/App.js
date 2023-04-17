@@ -32,7 +32,7 @@ function WelcomePage() {
           <li>ห้องสมุดวิจัยที่มีหนังสือและวารสารเกี่ยวกับกีฏวิทยา</li>
         </ul>
         <p className="welcome-message">
-          We can't wait to see you at Visual Insect Dome!
+          We can't wait to see you at Visual Insect Dome! Test
         </p>
         <a href="https://nitassakanproject.blogspot.com/2023/03/insect-simulation-exhibition-in-khao_7.html" target="_blank" rel="noopener noreferrer">
         <button onClick={handleButtonClick}>Click me to start</button>

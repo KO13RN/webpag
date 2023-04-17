@@ -37,7 +37,7 @@ function WelcomePage() {
         <a href="https://portal.furioos.com/share/npj7GzWXjfxDSMtqs?autoRun=true" target="_blank" rel="noopener noreferrer">
         <button onClick={handleButtonClick}>Click me to start</button>
       </a>
-        {buttonClicked && <p>You clicked the button!</p>}
+        {buttonClicked && <p>You clicked the button The Password is AAAbbbCCC2023</p>}
       </div>
     </div>
   );
